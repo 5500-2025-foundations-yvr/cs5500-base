@@ -20,7 +20,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 1. **Name:** Aria Druker **Date:** Sept 8, 2025 **Role:** __________________________
 
-2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+2. **Name:** Yunwen Hu **Date:** Sept 8, 2025 **Role:** __________________________
 
 3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
