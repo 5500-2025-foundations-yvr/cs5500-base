@@ -18,11 +18,11 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 **Team Member Signatures:**
 <!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
 
-1. **Name:** Aria Druker **Date:** Sept 8, 2025 **Role:** __________________________
+1. **Name:** Aria Druker **Date:** Sept 8, 2025 **Role:** Full Stack / Producer
 
-2. **Name:** Hange Zhang **Date:** Sept 8, 2025 **Role:** __________________________
+2. **Name:** Hange Zhang **Date:** Sept 8, 2025 **Role:** Full Stack / Test Coordinator
 
-3. **Name:** Yunwen Hu **Date:** Sept 8, 2025 **Role:** __________________________
+3. **Name:** Yunwen Hu **Date:** Sept 8, 2025 **Role:** Full Stack / QA Specialist
 
 4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
 
