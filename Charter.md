@@ -4,7 +4,7 @@
 This Team Charter outlines the purpose, objectives, roles, responsibilities, and operating guidelines for our team as we develop an application for our external partner. It serves as a roadmap to ensure alignment and effective collaboration throughout the project.
 
 ## Team Information
-- **Team Name:** HAY
+- **Team Name:** Needle in a HAY-Stack
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
   1. Aria Druker
@@ -20,9 +20,9 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 1. **Name:** Aria Druker **Date:** Sept 8, 2025 **Role:** __________________________
 
-2. **Name:** Yunwen Hu **Date:** Sept 8, 2025 **Role:** __________________________
+2. **Name:** Hange Zhang **Date:** Sept 8, 2025 **Role:** __________________________
 
-3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+3. **Name:** Yunwen Hu **Date:** Sept 8, 2025 **Role:** __________________________
 
 4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
 
