@@ -2,7 +2,7 @@
 
 
 - This is the landing page of your team.
-- **Team Name:** [Place holder for a team name]
+- **Team Name:** Needle in a HAY-Stack
 - **Team Logo:** [Place holder for a team logo]
 - **Team Description:** [Place holder for a team description]
 
@@ -13,7 +13,7 @@
 | <img src="Resources/cat.png" alt="Cat" height="64" width="64"> | Cat | cat@example.com |
 | <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Dog | dog@example.com |
 | <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
-| <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
+| <img src="Resources/sea otter.jpg" alt="Jingying Chen" height="64" width="64"> | Jingying | chen.jingyin@northeastern.edu |
 
 
 
