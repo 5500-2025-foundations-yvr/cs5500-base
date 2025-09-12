@@ -1,7 +1,7 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+Needle in a HAY-Stack
 
 ## Date
 Week 1 September 14
@@ -10,7 +10,7 @@ Week 1 September 14
 - [Team Member 1]
 - [Team Member 2]
 - [Team Member 3]
-- [Team Member 4]
+- Jingying Chen
 - [Team Member 5]
 
 ---
@@ -75,15 +75,15 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 4]
+### Jingying Chen
 - **Achievements and Contributions:**
-  -
+  - Added myself to README and charter
 - **Challenges Faced:**
-  -
+  None
 - **Areas for Improvement:**
-  -
+  - Hope I get to know the group memebers well soon.
 - **Feedback and Suggestions:**
-  -
+  None
 
 ### [Team Member 5]
 - **Achievements and Contributions:**
