@@ -10,7 +10,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
   1. Aria Druker
   2. Hange Zhang
   3. Yunwen Hu
-  4. __________________________ (if applicable)
+  4. Jingying Chen
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
@@ -24,7 +24,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 3. **Name:** Yunwen Hu **Date:** Sept 8, 2025 **Role:** Full Stack / QA Specialist
 
-4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
+4. **Name:** Jingying Chen **Date:** Sept 11, 2025 **Role:** Back End / DevOps Specialist
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
 
