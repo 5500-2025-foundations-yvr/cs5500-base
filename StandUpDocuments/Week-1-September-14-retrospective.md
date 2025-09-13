@@ -7,7 +7,7 @@ Needle in a HAY-Stack
 Week 1 September 14
 
 ## Participants
-- [Team Member 1]
+- Aria Druker
 - [Team Member 2]
 - [Team Member 3]
 - Jingying Chen
@@ -18,13 +18,15 @@ Week 1 September 14
 ## Overview
 Briefly describe the purpose of this retrospective and what you aim to achieve.
 
+Getting the team charter in order.
+
 ---
 
 ## What Went Well
 List the things that went well during the project.
--
--
--
+- assigning roles
+- make sure everyone can access the repo
+- test push / pull for everyone to edit
 
 ---
 
@@ -38,22 +40,22 @@ List the areas where there is room for improvement.
 
 ## Action Items
 Identify actionable steps that can be taken to improve future projects.
-1.
+1. Book with TA once we know who to book with
 2.
 3.
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Aria Druker
 - **Achievements and Contributions:**
-  -
+  - Forked the repo
 - **Challenges Faced:**
-  -
+  - Learning what pull requests are and better workflow management
 - **Areas for Improvement:**
-  -
+  - Keep learning about git hub best practices
 - **Feedback and Suggestions:**
-  -
+  - None
 
 ### [Team Member 2]
 - **Achievements and Contributions:**
@@ -100,11 +102,11 @@ Identify actionable steps that can be taken to improve future projects.
 ## Overall Team Assessment
 Reflect on the team's performance as a whole.
 - **Team Strengths:**
-  -
+  - Communication on Teams
 - **Areas for Improvement:**
-  -
+  - None
 - **Suggestions for Future Projects:**
-  -
+  - None
 
 ---
 
