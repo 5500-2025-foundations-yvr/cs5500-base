@@ -7,73 +7,78 @@
 Week 1 September 14
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+- Lionel Li
+- Yilin Pan
+- Qi Wei
+- Cara Zeng
 
 ---
 
 ## Overview
-Briefly describe the purpose of this retrospective and what you aim to achieve.
+It is the first week, so the focus is about getting to know each other:
+- Skills we have
+- Preference of role
+- Idea about the program
 
 ---
 
 ## What Went Well
 List the things that went well during the project.
--
--
--
+- We complete the Charter well
+- We have a group on Teams to ensure we communicate well.
+- We set up a preliminary schedule for StandUp Meeting.
 
 ---
 
 ## What Could Be Improved
 List the areas where there is room for improvement.
--
--
--
+- Everything is good now.
 
 ---
 
 ## Action Items
 Identify actionable steps that can be taken to improve future projects.
-1.
+1. At the beginning of the project, we could be more chill, just have fun knowing each other.
 2.
 3.
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Cara(Yuan Zeng)
 - **Achievements and Contributions:**
-  -
+  - readed the article sended by juancho.
+  - watched some typescript crash courses.
 - **Challenges Faced:**
-  -
+  - need some more knowledge about database
 - **Areas for Improvement:**
-  -
+  - maybe more time for this course
 - **Feedback and Suggestions:**
-  -
+  - More information about the things we will do this semester
 
-### [Team Member 2]
+### Yilin Pan
 - **Achievements and Contributions:**
-  -
+  - Learned basic syntax of typescript
+  - Thinking of possible directions of our project
+  - Research about games written in JS/TS and possible tools/engines
 - **Challenges Faced:**
-  -
+  - Not clear of what the user's request would be, need more clarity
+  - Scaring myself of possible team communication problems
 - **Areas for Improvement:**
-  -
+  - Trying to be more chill
 - **Feedback and Suggestions:**
-  -
+  - All the fighting is in my mind
 
-### [Team Member 3]
+### Lionel Li
 - **Achievements and Contributions:**
-  -
+  - learned the basic TypeScript syntax.
+  - Getting to know my teammates
 - **Challenges Faced:**
-  -
+  - Onboarding to an unfamiliar tech stack
 - **Areas for Improvement:**
-  -
+  - &
 - **Feedback and Suggestions:**
-  -
+  - Keep up our great work!
 
 ### [Team Member 4]
 - **Achievements and Contributions:**

@@ -4,13 +4,13 @@
 This Team Charter outlines the purpose, objectives, roles, responsibilities, and operating guidelines for our team as we develop an application for our external partner. It serves as a roadmap to ensure alignment and effective collaboration throughout the project.
 
 ## Team Information
-- **Team Name:** __________________________
+- **Team Name:** _____() => lol__________________ 
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
-  1. __________________________
-  2. __________________________
-  3. __________________________
-  4. __________________________ (if applicable)
+  1. __Lionel Li_______
+  2. __Yilin Pan_____________
+  3. __Dako(Qi Wei)_____________
+  4. __Yuan Zeng________________ (if applicable)
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
@@ -18,13 +18,13 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 **Team Member Signatures:**
 <!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
 
-1. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+1. **Name:** __Xuetao Li_____ **Date:** __Sep.8__ **Role:** ____Front-end Developer______________________
 
-2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+2. **Name:** __Yilin Pan ______________ **Date:** 09.10.2025 **Role:** __Producer________________
 
-3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+3. **Name:** ____Qi Wei___________________ **Date:** ___2025-09-12_____ **Role:** _____Back-end Developer_________________
 
-4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
+4. **Name:** __Yuan Zeng_______________ **Date:** 09.08.2025 **Role:** ___Full-Stack Developer________ (if applicable)
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
 
